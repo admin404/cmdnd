@@ -1,0 +1,21 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "8e3415aa8136ccfbf9542a129ff700cedaae77174cc04208bbbc80b6daaf54e6"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.12.1",
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "Cmdnd",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {}
+}
